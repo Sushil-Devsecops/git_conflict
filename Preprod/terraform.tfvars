@@ -3,6 +3,10 @@ RG = {
     rg_name  = "Apple"
     location = "Central India"
   }
+    rg2 = {
+    rg_name  = "orange"
+    location = "Central India"
+  }
 }
 vnet = {
 
